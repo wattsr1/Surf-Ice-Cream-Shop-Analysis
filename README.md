@@ -10,7 +10,7 @@ This project is targeted to assess the potential for a proposal to start a surf/
 
 ## Temperature Data
 
-From the analysis completed using the [SQL database]("/hawaii.sqlite") which contains the database that contains the relevant data for the area.  Data was extracted from the database using [code]("/SurfsUp_Challenge.ipynb") compiled on Jupyter Labs using the SQLalcemy module in Python to conduct queries on the local SQLite database to extract the temperature data for the months of June and December to observed trends over the years.  The query data was converted to a DataFrame that was used to tabulate the data and allow a statistical analysis of the data for June and December which showed the descriptive statistics for both months over the years.  As seen below the analysis of the temperature statistics from the database are shown.
+From the analysis completed using the [SQL database](/hawaii.sqlite) which contains the database that contains the relevant data for the area.  Data was extracted from the database using [code](/SurfsUp_Challenge.ipynb) compiled on Jupyter Labs using the SQLalcemy module in Python to conduct queries on the local SQLite database to extract the temperature data for the months of June and December to observed trends over the years.  The query data was converted to a DataFrame that was used to tabulate the data and allow a statistical analysis of the data for June and December which showed the descriptive statistics for both months over the years.  As seen below the analysis of the temperature statistics from the database are shown.
 
 | June Temperature Descriptive Stats | Dec Temperature Descriptive Stats |
 |:-------------------------:|:-------------------------:|
