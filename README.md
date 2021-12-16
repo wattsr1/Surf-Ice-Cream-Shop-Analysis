@@ -28,7 +28,7 @@ From the descriptive statistics obtain for the temperatures in June and December
 
 This suggests that there are minimal differences between the temperatures in June and December.  To further visualize this a graphical representation of average temperatures for June and December are shown below. It should be noted that the data from December 2017 is missing in the database.
 
-<img src="/Resources/june_dec_ave_temps.png" width="600" height="400">
+<img src="/Resources/june_dec_avg_temps.png" width="600" height="400">
 
 To illustrate the yearly trends in the temperatures in the area, the average temperatures per month between 2010 and 2017 were extracted from the database.  From that a dataframe and graph showing the average temperature by month was created to show the yearly tends in temperatures.
 
